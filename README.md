@@ -1,0 +1,1 @@
+After configuration of Ror, rails new to test the env.
